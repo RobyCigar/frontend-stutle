@@ -11,16 +11,16 @@ git clone https://github.com/RobyCigar/frontend-stutle
 
 
 ## List Tugas
-[ ] Tugas 1: Membuat Form HTML
+- [X] Tugas 1: Membuat Form HTML
 
-[ ] Tugas 2: Menghubungkan HTML dengan CSS
+- [ ] Tugas 2: Menghubungkan HTML dengan CSS
 
-[ ] Tugas 3: Membuat icon dengan CSS
+- [ ] Tugas 3: Membuat icon dengan CSS
 
-[ ] Tugas 4: Membuat card component
+- [ ] Tugas 4: Membuat card component
 
-[ ] Tugas 5: Membuat header website
+- [ ] Tugas 5: Membuat header website
 
-[ ] Tugas 6: Latihan conditional statement Javascript
+- [ ] Tugas 6: Latihan conditional statement Javascript
 
-[ ] Tugas 7: Membuat Website Portfolio
+- [ ] Tugas 7: Membuat Website Portfolio
