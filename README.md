@@ -8,7 +8,24 @@ git clone https://github.com/RobyCigar/frontend-stutle
 ## Cara Memakai Repository Ini
 
 ## List Materi
-
+### HTML
+- [ ] Introduction
+- [ ] Sejarah Internet dan Web
+- [ ] Menyiapkan Tools
+- [ ] Berkenalan dengan HTML
+- [ ] Konsep HTML
+- [ ] Elemen Dasar Pada HTML
+- [ ] Semantic HTML
+- [ ] Konten Berbasis Teks
+- [ ] Konten Berbasis Gambar
+- [ ] Konten Berbasis Hyperlink
+- [ ] Elemen Block dan Inline
+- [ ] Form
+- [ ] Elemen Head
+- [ ] Dokumen dengan Multi-Bahasa
+- [ ] Penggunaan SVG
+- [ ] Panduan Terbaik HTML
+### CSS
 
 ## List Tugas
 - [X] Tugas 1: Membuat Form HTML
