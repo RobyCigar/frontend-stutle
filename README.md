@@ -38,7 +38,7 @@ git remote add origin https://github.com/<username>/<nama_repository>.git
 git push -u origin main
 ```
 
-4. Baca materi frontend dan kerjakan tugas yang ada pada [series.stutle.org](https://www.series.stutle.org) 
+4. Baca materi frontend dan kerjakan tugas yang ada pada [series.stutle.org](https://series.stutle.org/052b2e5435834909a1b9711802973cd7) 
 5. Jika sudah selesai membaca materi atau mengerjakan tugas, silakan buka file `README.md` lalu centang checkbox yang ada di bawah ini dengan cara memodifikasi list `[ ]` menjadi `[X]`.
 
 ## List Materi
