@@ -1,9 +1,15 @@
 <h1 align="center">Daftar Progress Tugas Pada MGL Frontend Stutle</h1>
 
+<p align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/69680330/135962270-65ba0bb0-a99b-4072-816a-219f22207b74.jpg" />
+</p>
+
+
 ## Cara Download
 Buka git bash(jika windows) atau terminal(jika linux/macOS) lalu download repository ini dengan command
 ```
 git clone https://github.com/RobyCigar/frontend-stutle
+
 ```
 ## Cara Memakai Repository Ini
 Setelah berhasil mendownload repository ini di komputer kamu ikuti langkah-langkah berikut
