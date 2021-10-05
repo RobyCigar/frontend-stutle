@@ -6,6 +6,40 @@ Download dengan format zip atau clone repository ini dengan command
 git clone https://github.com/RobyCigar/frontend-stutle
 ```
 ## Cara Memakai Repository Ini
+Setelah berhasil mendownload repository ini di komputer kamu ikuti langkah-langkah berikut
+
+1. Buatlah repository GitHub pada icon tambah di pojok atas kanan GitHub
+dan click `New Repository`
+
+![image](https://user-images.githubusercontent.com/69680330/135961556-cd091d70-806f-47b2-8341-45c2b98b8c1b.png)
+
+
+2. Tambahkan nama repository dan langsung click `Create Repository` (abaikan saja input lainnya)
+![image](https://user-images.githubusercontent.com/69680330/135961050-37b6e0c6-fd28-488d-9400-e9b5a017aff8.png)
+
+![image](https://user-images.githubusercontent.com/69680330/135961078-b51df1bb-3862-4736-97eb-fb5291d34212.png)
+
+
+3. Di dalam folder yang sudah kamu download tadi, buka terminal(jika linux/macOS) atau git bash(jika windows) lalu ketikkan perintah berikut secara berurutan.
+```
+git init
+```
+```
+git commit -m "first commit"
+```
+```
+git branch -M main
+```
+Note: isikan `<username>` dan `<nama_repository>` sesuai dengan data yang kamu miliki.
+```
+git remote add origin https://github.com/<username>/<nama_repository>.git
+```
+```
+git push -u origin main
+```
+
+4. Baca materi frontend dan kerjakan tugas yang ada pada [series.stutle.org](series.stutle.org) 
+5. Jika sudah selesai membaca materi atau mengerjakan tugas, silakan buka file `README.md` lalu centang checkbox yang ada di bawah ini dengan cara memodifikasi list `[ ]` menjadi `[X]`.
 
 ## List Materi
 ### HTML
@@ -26,9 +60,16 @@ git clone https://github.com/RobyCigar/frontend-stutle
 - [ ] Penggunaan SVG
 - [ ] Panduan Terbaik HTML
 ### CSS
+- [ ] Introduction
+- [ ] -
+
+### JavaScript
+- [ ] Introduction
+- [ ] -
+
 
 ## List Tugas
-- [X] Tugas 1: Membuat Form HTML
+- [ ] Tugas 1: Membuat Form HTML
 
 - [ ] Tugas 2: Menghubungkan HTML dengan CSS
 
