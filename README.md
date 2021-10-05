@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Daftar Progress Tugas Pada MGL Frontend Stutle</h1>
+<h1 align="center">Daftar Progress Tugas Pada MGL Frontend Stutle</h1>
 
 ## Cara Download
 Download dengan format zip atau clone repository ini dengan command
