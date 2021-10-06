@@ -14,7 +14,7 @@ git clone https://github.com/RobyCigar/frontend-stutle
 ## Cara Memakai Repository Ini
 Setelah berhasil mendownload repository ini di komputer kamu ikuti langkah-langkah berikut
 
-1. Buatlah repository GitHub pada icon tambah di pojok atas kanan GitHub
+1. Buatlah repository GitHub dengan menge-klik icon tambah di pojok atas kanan GitHub
 dan click `New Repository`
 
 ![image](https://user-images.githubusercontent.com/69680330/135961556-cd091d70-806f-47b2-8341-45c2b98b8c1b.png)
