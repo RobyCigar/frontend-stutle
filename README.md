@@ -1,4 +1,4 @@
-<h1 align="center">Daftar Progress Tugas Pada MGL Frontend Stutle</h1>
+<h1 align="center">Module Tugas Micro Grup Learning Frontend Stutle</h1>
 
 <p align="center">
   <img height="200" src="https://user-images.githubusercontent.com/69680330/135962270-65ba0bb0-a99b-4072-816a-219f22207b74.jpg" />
