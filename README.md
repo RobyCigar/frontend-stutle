@@ -45,7 +45,7 @@ git push -u origin main
 ```
 
 4. Baca materi frontend dan kerjakan tugas yang ada pada [series.stutle.org](https://series.stutle.org/052b2e5435834909a1b9711802973cd7) 
-5. Jika sudah selesai membaca materi atau mengerjakan tugas, silakan buka file `README.md` lalu centang checkbox yang ada di bawah ini dengan cara memodifikasi list `[ ]` menjadi `[X]`.
+5. Jika sudah selesai membaca materi atau mengerjakan tugas, silakan buka file ini lalu centang checkbox yang ada di section bawah ini dengan cara memodifikasi list `[ ]` menjadi `[X]`.
 
 ## List Materi
 ### HTML
