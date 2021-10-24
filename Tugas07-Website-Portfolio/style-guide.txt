@@ -1,0 +1,8 @@
+Warna:
+	background: #264653
+	text-primary: #FBECC9
+Font:
+	Font-Style: 
+		Poppins(https://fonts.google.com/specimen/Poppins?query=poppins)
+	Font-Weight: 
+		Semibold, Regular
