@@ -67,11 +67,37 @@ git push -u origin main
 - [ ] Panduan Terbaik HTML
 ### CSS
 - [ ] Introduction
-- [ ] -
+- [ ] Menghubungkan CSS dengan HTML
+- [ ] CSS Selector
+- [ ] Memberi Warna Text
+- [ ] Fonts
+- [ ] Border dan Border Radius
+- [ ] Shadow
+- [ ] Overflow
+- [ ] CSS Unit
+- [ ] Positioning
+- [ ] Box Model - Content dan Padding
+- [ ] Box Model - Margin
+- [ ] Display
+- [ ] Flexbox 1
+- [ ] Flexbox 2
+- [ ] Responsive Design
 
 ### JavaScript
 - [ ] Introduction
-- [ ] -
+- [ ] Setup Javascript
+- [ ] Variable dan Tipe Data
+- [ ] Expression dan Assignment
+- [ ] Mutability dan Immutability
+- [ ] Scope
+- [ ] Percabangan/Conditional
+- [ ] Perulangan/Looping
+- [ ] Function
+- [ ] Array
+- [ ] Hoisting
+- [ ] Syntax var, let, dan const
+- [ ] Destructuring
+- [ ] Rest Parameter
 
 
 ## List Tugas
