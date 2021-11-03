@@ -97,7 +97,7 @@ git push -u origin main
 - [ ] Hoisting
 - [ ] Syntax var, let, dan const
 - [ ] Destructuring
-- [ ] Rest Parameter
+- [ ] Rest Parameter dan Spread Syntax
 
 
 ## List Tugas
