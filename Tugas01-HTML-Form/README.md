@@ -9,4 +9,4 @@
     6. Password
     7. Validasi password
 
-Boleh memakai tools lain seperti css/bootstrap jika sudah bisa, namun tidak disarankan
+Note: Boleh memakai tools lain seperti css/bootstrap.
