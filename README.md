@@ -38,7 +38,10 @@ git branch -M main
 ```
 Note: isikan `<username>` dan `<nama_repository>` sesuai dengan data yang kamu miliki.
 ```
-git remote add origin https://github.com/<username>/<nama_repository>.git
+git remote add origin https://github.com/{username}/{nama_repository}.git
+
+contoh: git remote add origin https://github.com/elonmusk/spacex.git
+
 ```
 ```
 git push -u origin main
